@@ -1,7 +1,6 @@
 Projeto Gerador de Conselhos - Frontend Mentor
 Um card simples que mostra um conselho, feito com HTML e CSS para o desafio do Frontend Mentor.
 
-(coloque um print do seu projeto aqui)
 
 Tecnologias usadas:
 HTML5
